@@ -18,13 +18,13 @@
 
 # QoS:
 
-#SBATCH --qos=savio_normal
+#SBATCH --qos=nuclear_savio_normal
 
 #
 
 # Account:
 
-#SBATCH -A fc_neutronics
+#SBATCH -A co_nuclear
 
 #SBATCH --mail-user=keckler@berkeley.edu
 #SBATCH --mail-type=all
