@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#SBATCH --job-name=2.4nBAZr
+#SBATCH --job-name=3.1nBAZr
 
 #SBATCH --output=PWR.o
 
